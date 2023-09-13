@@ -31,7 +31,7 @@ def get_requirements(filename="requirements.txt"):
 
 
 setuptools.setup(
-    name="django_utils",
+    name="django_core",
     version=version,  # do NOT CHANGE - change from pyproject.toml
     include_package_data=True,
     author="DevOps",

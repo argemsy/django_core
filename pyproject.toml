@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-core"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Argenis Vargas <argenis1818@gmail.com>"]
 readme = "README.md"
