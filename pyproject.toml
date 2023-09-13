@@ -15,6 +15,7 @@ python-dotenv = "^1.0.0"
 psycopg2-binary = "^2.9.7"
 psycopg2 = "^2.9.7"
 dj-database-url = "^2.1.0"
+pillow = "^10.0.0"
 
 
 [tool.poetry.group.lint.dependencies]
@@ -31,6 +32,7 @@ pytest-django = "^4.5.2"
 pytest-mock = "^3.11.1"
 pytest-asyncio = "^0.21.1"
 syrupy = "^4.5.0"
+coverage = "^7.3.1"
 
 [build-system]
 requires = ["poetry-core"]
